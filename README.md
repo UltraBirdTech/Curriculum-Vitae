@@ -7,7 +7,7 @@
 |key|value|
 |---|-----|
 |Name|羽鳥 拓也 (Hatori Takuya))|
-|Blog|[バァど・うぉっちんぐ](http://ultrabirdrepti.net)|
+|Blog|[ばぁど・うぉっちんぐ](http://ultrabirdrepti.net)|
 |Twitter|[@UltraBirdTech](https://twitter.com/UltraBirdTech)|
 |Qiita|[UltraBirdTech](http://qiita.com/UltraBirdTech)|
 |はてなブログ|[UltraBirdTech](http://ultrabirdtech.hatenablog.com)|
