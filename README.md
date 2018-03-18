@@ -18,19 +18,13 @@
 
 ### 言語
 
-- プログラミング言語
 - Ruby
 - Javascript
 - Java
 - PHP
 
-- 日本語
-  - ネイティブ
-- 英語
-  - かんたんな日常会話可能
-  - 毎朝SKype英会話頑張ってます！！
-
 ### フレームワーク
+
 - Ruby
   - Ruby on Rails
   - Padrino
@@ -39,7 +33,6 @@
 - PHP
   - FuelPHP
   - symfony
-  - Drupal(CMSなのでちょっと違う？)
 
 ### 資格・試験
 #### IPA試験
@@ -105,8 +98,13 @@
 - 英語を使った仕事
 - リモートワーク
 
-## 職務経歴（あまり詳しく書けない）
+## 職務経歴
 
-### 某システム開発会社
+### システム開発会社
 
 職務: Webアプリケーションエンジニア
+
+Java Springフレームワーク ２ヶ月
+Ruby padrino 1年
+Ruby Rails 2年
+JavaScript AngularJS 2年
