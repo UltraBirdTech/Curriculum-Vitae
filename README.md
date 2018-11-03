@@ -16,22 +16,25 @@
 ## スキル
 
 ### 言語
-
-- Ruby
-- Javascript
-- Java
-- PHP
+|言語名|経験年数|備考|
+|:---:|:---:|:----|
+| Ruby | 4年 | 一番の得意言語|
+| Javascript | 3年 | Angular でフロント側の実装経験あり。|
+| PHP | 1年 | |
+| Java | 1年未満 | 新人研修で習った言語|
+| Python | 1年未満 | プライベートで使用|
 
 ### フレームワーク
 
-- Ruby
-  - Ruby on Rails
-  - Padrino
-- Javascript
-  - AngularJS
-- PHP
-  - FuelPHP
-  - symfony
+|言語名|FW名|経験年数|備考|
+|:---:|:---:|:----|:--|
+| Ruby |Ruby on Rails| 2年 | バックエンドのAPIとして使用|
+| Ruby |Padrino| 1年 | 業務用アプリケーションを作成。一つは立ち上げから従事。|
+| Javascript |Angular JS| 2年 | Rails APIからのレスポンスを受け取ってフロント側を実装|
+| PHP | FuelPHP | 1年未満 ||
+| PHP | symfony | 1年未満 |プライベート|
+| PHP | Drupal | 1年未満 |symfony をベースとしたCMS。|
+| Java | Spring| 1年未満 | 新人研修で習った |
 
 ### 資格・試験
 #### IPA試験
@@ -93,9 +96,9 @@
 
 ## やったことはないが興味があるもの
 
-- Drupal
+- サイバーセキュリティ（脆弱性診断、マルウェア駆除など）
 - 英語を使った仕事
-- リモートワーク
+
 
 ## 職務経歴
 
