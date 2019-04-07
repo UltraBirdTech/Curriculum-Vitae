@@ -22,19 +22,19 @@
 ### 言語
 |言語名|経験年数|備考|
 |:---:|:---:|:----|
-| Ruby | 4年 | 一番の得意言語|
-| Javascript | 3年 | Angular でフロント側の実装経験あり。|
-| PHP | 1年 | |
-| Python | 1年 | プライベートで使用|
+| Ruby | 4年以上 | 一番の得意言語|
+| Javascript | 3年以上 | Angular でフロント側の実装経験あり。|
+| PHP | 1年以上 | |
+| Python | 1年未満 | プライベートで使用|
 | Java | 1年未満 | 新人研修で習った言語|
 
 ### フレームワーク
 
 |言語名|FW名|経験年数|備考|
 |:---:|:---:|:----|:--|
-| Ruby |Ruby on Rails| 2年 | バックエンドのAPIとして使用|
-| Ruby |Padrino| 1年 | 業務用アプリケーションを作成。一つは立ち上げから従事。|
-| Javascript |Angular JS| 2年 | Rails APIからのレスポンスを受け取ってフロント側を実装|
+| Ruby |Ruby on Rails| 2年以上 | バックエンドのAPIとして使用|
+| Ruby |Padrino| 1年以上 | 業務用アプリケーションを作成。一つは立ち上げから従事。|
+| Javascript |Angular JS| 2年以上 | Rails APIからのレスポンスを受け取ってフロント側を実装|
 | PHP | FuelPHP | 1年未満 ||
 | PHP | symfony | 1年未満 |プライベート|
 | PHP | Drupal | 1年未満 |symfony をベースとしたCMS。|
