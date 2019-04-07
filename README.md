@@ -1,5 +1,3 @@
-# Curriculum-Vitae
-
 # 職務経歴書
 
 ## 基本情報
@@ -16,7 +14,7 @@
 
  - Webアプリ開発(Ruby, PHP, JavaScriptなどを用いて)
  - ハッキングスクリプトの開発(主にPython)
- - WireSharkによるパケット分析
+ - WireSharkによるネットワーク解析
  - Sysinternalsを用いたマルウェアフォレンジックス
 
 ## スキル
@@ -41,6 +39,16 @@
 | PHP | symfony | 1年未満 |プライベート|
 | PHP | Drupal | 1年未満 |symfony をベースとしたCMS。|
 | Java | Spring| 1年未満 | 新人研修で習った |
+
+### 扱えるツール
+ - Git
+ - wireshark
+ - sysinternals
+   - process explorer
+   - process monitor
+   - Autoruns
+   - TCPView
+ - BurpSuit
 
 ### 資格・試験
 #### IPA試験
@@ -73,5 +81,5 @@
 
 ### セキュリティ会社(ベンチャー企業)
 
-職務：セキュリティエンジニア
+職務：セキュリティエンジニア/講師
 職歴：半年(2018年11月〜現在）
