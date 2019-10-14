@@ -37,8 +37,14 @@
 | Javascript |Angular JS| 2年以上 | Rails APIからのレスポンスを受け取ってフロント側を実装|
 | PHP | FuelPHP | 1年未満 ||
 | PHP | symfony | 1年未満 |プライベート|
-| PHP | Drupal | 1年未満 |symfony をベースとしたCMS。|
 | Java | Spring| 1年未満 | 新人研修で習った |
+
+### CMS
+
+|言語名|FW名|経験年数|備考|
+|:---:|:---:|:----|:--|
+| PHP | Drupal | 1年未満 |symfony をベースとしたCMS。|
+| PHP | WordPress | 1年未満 |-|
 
 ### 扱えるツール
  - Git
@@ -49,6 +55,8 @@
    - Autoruns
    - TCPView
  - BurpSuit
+ - aws
+   - EC2
 
 ### 資格・試験
 #### IPA試験
@@ -81,5 +89,5 @@
 
 ### セキュリティ会社(ベンチャー企業)
 
-職務：セキュリティエンジニア/講師
+職務：セキュリティエンジニア/講師/aws構築/CMS構築/whiteチーム/redチーム
 職歴：半年(2018年11月〜現在）
