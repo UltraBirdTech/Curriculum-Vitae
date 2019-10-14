@@ -57,6 +57,8 @@
  - BurpSuit
  - aws
    - EC2
+ - metaesploit
+ - Empire
 
 ### 資格・試験
 #### IPA試験
@@ -91,3 +93,17 @@
 
 職務：セキュリティエンジニア/講師/aws構築/CMS構築/whiteチーム/redチーム
 職歴：半年(2018年11月〜現在）
+
+|役割|プロジェクト規模|経験年数|使用言語/FW|使用ツール|備考|
+|---|-----|---|---|
+|PG|8人|2ヶ月|Java / Spring|Ecripse / Git|大規模プロジェクト(約30人体制)のうちの1チーム。|
+|PG|3人|2ヶ月|PHP|||
+|PG|3人|5ヶ月|Ruby / Padrino|Git||
+|PG/サブリーダー|5人|11ヶ月|Ruby / Padrino|aws / Git|プロジェクト立ち上げから従事。サブリーダーとしても動く。|
+|PG|10人|20ヶ月|Ruby / Ruby on Rails / JavaScript(CoffeeScript) / AngularJS | Git | |
+|PL|5人|6ヶ月|PHP / Drupal|Git|海外(インド)メンバーと共同開発。小さな開発プロジェクトを複数継続で回す|
+|講師|4人|10ヶ月| - | セキュリティ / 英語 / metasploit |セキュリティ教育事業の講師として従事。英語圏のメンバーとのコミュニケーションなどをとる |
+|PG|4人|2ヶ月| Ruby / Python| aws / metasploit/ Empire | |
+|PG|8人|2ヶ月|Java/Spring|EcripseLri||
+|PG|8人|2ヶ月|Java/Spring|Ecripse||
+
