@@ -8,14 +8,14 @@
 |Twitter|[@UltraBirdTech](https://twitter.com/UltraBirdTech)|
 |Qiita|[UltraBirdTech](http://qiita.com/UltraBirdTech)|
 |はてなブログ|[UltraBirdTech](http://ultrabirdtech.hatenablog.com)|
-|SlideShare|そのうち|
 
 ## できること
 
- - Webアプリ開発(Ruby, PHP, JavaScriptなどを用いて)
+ - Webアプリ開発(Ruby, Python, JavaScriptなどを用いて)
  - ハッキングスクリプトの開発(主にPython)
  - WireSharkによるネットワーク解析
  - Sysinternalsを用いたマルウェアフォレンジックス
+ - SOC研修
 
 ## スキル
 
@@ -24,8 +24,8 @@
 |:---:|:---:|:----|
 | Ruby | 4年以上 | 一番の得意言語|
 | Javascript | 3年以上 | Angular でフロント側の実装経験あり。|
+| Python | 2年以上 | |
 | PHP | 1年以上 | |
-| Python | 1年未満 | プライベートで使用|
 | Java | 1年未満 | 新人研修で習った言語|
 
 ### フレームワーク
@@ -34,6 +34,7 @@
 |:---:|:---:|:----|:--|
 | Ruby |Ruby on Rails| 2年以上 | バックエンドのAPIとして使用|
 | Ruby |Padrino| 1年以上 | 業務用アプリケーションを作成。一つは立ち上げから従事。|
+| Python| Django | 1年以上 | 環境構築、開発環境の整備(Docker)、開発フロー整備など担当。 |
 | Javascript |Angular JS| 2年以上 | Rails APIからのレスポンスを受け取ってフロント側を実装|
 | PHP | FuelPHP | 1年未満 ||
 | PHP | symfony | 1年未満 |プライベート|
@@ -49,6 +50,7 @@
 
 ### 扱えるツール
  - Git
+ - Docker
  - wireshark
  - sysinternals
    - process explorer
@@ -105,4 +107,8 @@
 |PL|5人|6ヶ月|PHP / Drupal|Git|海外(インド)メンバーと共同開発。小さな開発プロジェクトを複数継続で回す|
 |講師|4人|10ヶ月| - | セキュリティ / 英語 / metasploit |セキュリティ教育事業の講師として従事。英語圏のメンバーとのコミュニケーションなどをとる |
 |PG|4人|2ヶ月| Ruby / Python| aws / metasploit/ Empire | |
+|PL|2人|4ヶ月| Python | - | EDRプロジェクトの立ち上げに従事 |
+|PL/PG|2人|2ヶ月| Python | - | レポート出力スクリプトの改修 |
+|PL/PG|2人|2ヶ月| Python | Django/Git | 管理画面の開発|
+
 
