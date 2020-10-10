@@ -9,13 +9,21 @@
 |Qiita|[UltraBirdTech](http://qiita.com/UltraBirdTech)|
 |はてなブログ|[UltraBirdTech](http://ultrabirdtech.hatenablog.com)|
 
-## できること
+## できること、実務で経験したことがある、主体的に動けること
 
  - Webアプリ開発(Ruby, Python, JavaScriptなどを用いて)
+ - ユニットテストの導入、設計
+ - Gitをフローに従ったコード開発、及び開発ルールの制定
+ - Dockerを用いた開発環境の構築
+ - Dockerを用いた検証環境、本番環境のサーバー設定
+ - 自動テストの導入
+ - 自動デプロイの導入
+ - セキュアWeb開発
  - ハッキングスクリプトの開発(主にPython)
  - WireSharkによるネットワーク解析
  - Sysinternalsを用いたマルウェアフォレンジックス
  - SOC研修
+ - SOCチームの構築
 
 ## スキル
 
@@ -109,6 +117,6 @@
 |PG|4人|2ヶ月| Ruby / Python| aws / metasploit/ Empire | |
 |PL|2人|4ヶ月| Python | - | EDRプロジェクトの立ち上げに従事 |
 |PL/PG|2人|2ヶ月| Python | - | レポート出力スクリプトの改修 |
-|PL/PG|2人|2ヶ月| Python | Django/Git | 管理画面の開発|
+|PL/PG|2人|８ヶ月| Python | Django/Git | 管理画面の開発|
 
 
