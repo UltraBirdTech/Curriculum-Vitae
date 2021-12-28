@@ -4,7 +4,6 @@
 
 |key|value|
 |---|-----|
-|Name|羽鳥 拓也 (Hatori Takuya))|
 |Twitter|[@UltraBirdTech](https://twitter.com/UltraBirdTech)|
 |Qiita|[UltraBirdTech](http://qiita.com/UltraBirdTech)|
 |はてなブログ|[UltraBirdTech](http://ultrabirdtech.hatenablog.com)|
